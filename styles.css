@@ -15,7 +15,7 @@ body {
 }
 
 .app-main {
-    width: 50vh;
+    max-width: 55vh;
     margin: 100px auto;
     background-color: rgba(250,260,250, 0.7);
     padding: 20px;
